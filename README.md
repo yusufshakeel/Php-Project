@@ -17,7 +17,7 @@ Date: 12-Feb-2014 Wed
 Note
 ----
 
-I am using NetBeans 7.3.1 IDE and XAMPP for my Php-Project.
+I am using NetBeans IDE 7.3.1 and XAMPP for my Php-Project.
 
 
 ### License
