@@ -5,7 +5,7 @@ Php projects using php html5 css js
 
 By: Yusuf Shakeel
 
-Date: 12-Feb-2014 Wed
+Date: 12-Feb-2014 Wednesday
 
 [facebook.com/yusufshakeel](https://www.facebook.com/yusufshakeel)
 
