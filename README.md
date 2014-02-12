@@ -19,9 +19,7 @@ Note
 
 I am using NetBeans IDE 7.3.1 and XAMPP for my Php-Project.
 
-Watch this video
-
-[PHP | How to setup XAMPP and NetBeans for PHP project](http://www.youtube.com/watch?v=AY5qm8XnbkY&list=PLG6ePePp5vvZw0YAy9yWHAAjvWM-vFrki&feature=c4-overview-vl)
+Watch this video [PHP | How to setup XAMPP and NetBeans for PHP project](http://www.youtube.com/watch?v=AY5qm8XnbkY&list=PLG6ePePp5vvZw0YAy9yWHAAjvWM-vFrki&feature=c4-overview-vl) if you are planning to start your php project.
 
 
 ### License
