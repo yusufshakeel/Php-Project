@@ -19,7 +19,11 @@ Note
 
 I am using NetBeans IDE 7.3.1 and XAMPP for my Php-Project.
 
-Watch this video [PHP | How to setup XAMPP and NetBeans for PHP project](http://www.youtube.com/watch?v=AY5qm8XnbkY&list=PLG6ePePp5vvZw0YAy9yWHAAjvWM-vFrki&feature=c4-overview-vl) if you are planning to start your php project.
+Watch this video [PHP | How to setup XAMPP and NetBeans for PHP project](http://www.youtube.com/watch?v=AY5qm8XnbkY&list=PLG6ePePp5vvZw0YAy9yWHAAjvWM-vFrki&feature=c4-overview-vl) if you are planning to start your php project using NetBeans.
+
+You can even use Zend Eclipse PDT for your PHP Project.
+
+Watch this video [PHP| How to setup XAMPP and Zend Eclipse PDT for PHP Project](http://www.youtube.com/watch?v=Us5i6H0hLp8&feature=c4-overview&list=UUaqGoweuUdGFGEJA3fl6slg) if you are planning to start your php project using Eclipse.
 
 
 ### License
