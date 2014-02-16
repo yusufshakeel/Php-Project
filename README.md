@@ -23,7 +23,7 @@ Watch this video [PHP | How to setup XAMPP and NetBeans for PHP project](http://
 
 You can even use Zend Eclipse PDT for your PHP Project.
 
-Watch this video [PHP| How to setup XAMPP and Zend Eclipse PDT for PHP Project](http://www.youtube.com/watch?v=Us5i6H0hLp8&feature=c4-overview&list=UUaqGoweuUdGFGEJA3fl6slg) if you are planning to start your php project using Eclipse.
+Watch this video [PHP | How to setup XAMPP and Zend Eclipse PDT for PHP Project](http://www.youtube.com/watch?v=Us5i6H0hLp8&feature=c4-overview&list=UUaqGoweuUdGFGEJA3fl6slg) if you are planning to start your php project using Eclipse.
 
 
 ### License
