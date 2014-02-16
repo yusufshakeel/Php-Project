@@ -7,7 +7,7 @@
 		$passwd = "password";
 		$sqlcon = new PDO($db, $user, $passwd);
 		
-		//create sql querry
+		//create sql query
 		$sqlquery = "select album_name from albums where artist_id = ?";
 		
 		//prepare statement
