@@ -1,4 +1,8 @@
 <?php
+/*
+ * As an example, we are considering id as username and countrycode as password.
+ */
+
 function loginChecking($username, $password, $link){
 	$sql = 'select id,countrycode from city where id = ? and countrycode = ?';
 	$stmt = $link->prepare($sql);
